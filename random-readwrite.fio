@@ -1,0 +1,5 @@
+; https://www.icts.uiowa.edu/confluence/display/ICTSit/Testing+Disk+performance+with+fio
+[random_rw]
+rw=randrw
+size=1024m
+directory=/mnt/fusion/data

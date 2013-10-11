@@ -1,0 +1,11 @@
+; random read of 128mb of data
+; same as random-read-test.fio
+[random-read]
+rw=randread
+size=128m
+directory=/mnt/fusion/data
+; ...
+ioengine=libaio
+iodepth=8
+direct=1
+invalidate=1

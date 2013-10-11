@@ -1,0 +1,8 @@
+; http://www.bluestop.org/fio/HOWTO.txt
+; -- start job file --
+[random-writers]
+rw=randwrite
+size=64m
+numjobs=4
+directory=/mnt/fusion/fio/data
+; -- end job file --
