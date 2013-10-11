@@ -3,4 +3,4 @@
 [random-read]
 rw=randread
 size=128m
-directory=/mnt/fusion/fio/data
+directory=/mnt/fusion/disk_testing_fio/data

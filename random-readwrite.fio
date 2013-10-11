@@ -2,4 +2,4 @@
 [random_rw]
 rw=randrw
 size=1024m
-directory=/mnt/fusion/data
+directory=/mnt/fusion/disk_testing_fio/data

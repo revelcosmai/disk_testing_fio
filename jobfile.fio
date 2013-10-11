@@ -4,5 +4,5 @@
 rw=randwrite
 size=64m
 numjobs=4
-directory=/mnt/fusion/fio/data
+directory=/mnt/fusion/disk_testing_fio/data
 ; -- end job file --

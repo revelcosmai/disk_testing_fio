@@ -3,7 +3,7 @@
 [random-read]
 rw=randread
 size=128m
-directory=/mnt/fusion/data
+directory=/mnt/fusion/disk_testing_fio/data
 ; ...
 ioengine=libaio
 iodepth=8
